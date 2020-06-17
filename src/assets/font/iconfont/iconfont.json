@@ -1,0 +1,44 @@
+{
+  "id": "1822255",
+  "name": "溯源系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "trace-icon-",
+  "description": "溯源系统",
+  "glyphs": [
+    {
+      "icon_id": "13266320",
+      "name": "5-环境温度1",
+      "font_class": "-huanjingwendu",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "2459184",
+      "name": "设备与环境监测",
+      "font_class": "equipment-monitoring",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4539276",
+      "name": "作物-水稻",
+      "font_class": "zuowu-shuidao",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "6789095",
+      "name": "质检月报",
+      "font_class": "zhijianyuebao-",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14095007",
+      "name": "生产制造",
+      "font_class": "shengchanzhizao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
